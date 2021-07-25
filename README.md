@@ -1,13 +1,4 @@
-# Css-File-For-Laravel-Developers --it will help you to bring the design layout when you add Laravel Authentication.
- 1. In Login Web Page.
- 2. In Sign up Web Page
-
-### How to add:
-
-- First you have to install laravel in your system.
-- Second you have to go to the "public" folder, in public folder make a folder by the name of "css" if it exists then just clone the file and paste it there else make a folder and clone css-file and paste it over there. 
-
-Note: this would be useful way when your layout is not working properly when you install the laravel authentication.
+# Css-File-For-Laravel-Developers 
 
 ## Best way to bring Authentication Graphics layout in your laravel project 6.x or 7.x:
 
@@ -41,3 +32,16 @@ At the end don't forget to run
 If your User Interface is not working properly try below command.
 
    ``` npm run production ```
+
+
+
+## Note: try this way if the above won't work for you
+ 1. In Login Web Page.
+ 2. In Sign up Web Page
+
+### How to add:
+
+- First you have to install laravel in your system.
+- Second you have to go to the "public" folder, in public folder make a folder by the name of "css" if it exists then just clone the file and paste it there else make a folder and clone css-file and paste it over there. 
+
+Note: this would be useful way when your layout is not working properly when you install the laravel authentication.
