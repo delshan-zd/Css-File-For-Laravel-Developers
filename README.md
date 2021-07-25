@@ -9,10 +9,10 @@
 
 Note: this would be useful way when your layout is not working properly when you install the laravel authentication.
 
-Best way to brint Authentication Graphics layout:
+## Best way to bring Authentication Graphics layout in your laravel project 6.x or 7.x:
 
 
-##### Step 1 : Try the following two commands in your normal terminal not of your project directory. The below command will only update the composer.
+#### Step 1 : Try the following two commands in your normal terminal not of your project directory. The below command will only update the composer.
 
    composer self-update
    
@@ -24,7 +24,7 @@ When you composer gets updated. check the composer by the below command
 
    composer --version
    
-##### Step 2 : First go to your project root folder C:\Whatever\Your_project_name>
+#### Step 2 : First go to your project root folder C:\Whatever\Your_project_name>
 
    composer require laravel/ui
 
