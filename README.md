@@ -14,7 +14,7 @@ Note: this would be useful way when your layout is not working properly when you
 
 #### Step 1 : Try the following two commands in your normal terminal not of your project directory. The below command will only update the composer.
 
-   composer self-update
+   ''' composer self-update '''
    
 OR use the below command (it will update your dependencies plus your composer)
 
