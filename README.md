@@ -14,30 +14,30 @@ Note: this would be useful way when your layout is not working properly when you
 
 #### Step 1 : Try the following two commands in your normal terminal not of your project directory. The below command will only update the composer.
 
-   ''' composer self-update '''
+   ``` composer self-update ```
    
 OR use the below command (it will update your dependencies plus your composer)
 
-   composer update
+   ``` composer update ```
    
 When you composer gets updated. check the composer by the below command
 
-   composer --version
+  ``` composer --version ```
    
 #### Step 2 : First go to your project root folder C:\Whatever\Your_project_name>
 
-   composer require laravel/ui
+  ``` composer require laravel/ui ```
 
 Try any of the below command according to your front end framework.
-
+```
    php artisan ui vue --auth
    php artisan ui bootstrap --auth
    php artisan ui react --auth
-
+```
 At the end don't forget to run
 
-   npm install
+ ```  npm install ```
    
 If your User Interface is not working properly try below command.
 
-   npm run production
+   ``` npm run production ```
